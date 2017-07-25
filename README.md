@@ -1,6 +1,10 @@
 # discord-username-update-self
 
-Installation:
+This selfbot will update the notes on a user if they change their username with the user's previous username.
+
+
+
+#Installation:
 
 Install NodeJS and NPM
 
